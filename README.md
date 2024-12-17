@@ -1,2 +1,4 @@
 # Movies-and-Directors-Analysis
 **Description:**   "Explore this case study to understand the use of `join`/`merge` in pandas, `groupby` operations, and lambda functions in data manipulation. A practical approach to mastering essential pandas techniques while analyzing movies and directors."
+#**Description:**  
+"Delve into this case study to master essential pandas functionalities, including various types of merges (`inner`, `outer`, `left`, `right`) to combine datasets effectively. Gain hands-on experience with `groupby` operations for aggregating and summarizing data, and learn how to use lambda functions for dynamic data transformation. This project provides a comprehensive approach to understanding data manipulation and analysis through a practical example involving movies and directors."
